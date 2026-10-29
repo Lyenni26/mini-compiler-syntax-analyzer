@@ -1,0 +1,17 @@
+PROGRAMME x
+VAR{
+INTEGER d,x;
+FLOAT y;
+CONST a;
+INTEGER d;
+CONST y;
+CONST x;
+}
+BEGIN
+x = 5 / 5;
+d = 5 / 0;
+d = b / 5;
+c = c / 0;
+a = 0;
+END.
+
